@@ -1,0 +1,12 @@
+.jumbotron h1, .jumbotron h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    
+}
+.jumbotron {
+    background-image: url("./nyt.jpg");
+    background-size: cover;
+    text-align: center;
+    padding: 0px;
+    margin: 0;
+}
